@@ -1,4 +1,4 @@
-## Hi, I'm MallikArjun👋
+## Hi, I'm mallikArjun👋
 
 ### I'm DBA at [Datavail Pvt.Ltd](http://www.datavail.com/). ✨
 
