@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi, I'm Mallikarjun👋
 
-<!--
-**Azure4Arjun/Azure4Arjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm DBA at [Datavail Pvt.Ltd](http://www.datavail.com/). ✨
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on database administration of SQL Server and AzureSQL DBA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 You can ask me about: 
+     - AzureSQL and SQL Server High Availability and Disaster Recovery
+     - Performance Tuning on AzureSQL and SQL Server
+
+- 📫 How to reach me: 
+  - [🏢 - LinkedIn](https://www.linkedin.com/in/mallikarjun024/)
+  - [🦑 - GitHub Gist](https://gist.github.com/Azure4Arjun)
+
+- 😄 Pronouns: He/ Him
+- ⚡ Fun fact: Volleyball player and Traveller.
+
+
+## Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/mallikarjun024/
