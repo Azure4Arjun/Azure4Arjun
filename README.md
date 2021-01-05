@@ -2,7 +2,7 @@
 
 <p align='right'><img src="https://visitor-badge.glitch.me/badge?page_id=jaapbrasser.visitor-badge"></p>
 
-### I'm DBA at [Datavail Pvt.Ltd](http://www.datavail.com/). ✨
+### I'm a DBA! ✨
 
 - 🔭 I’m currently working on database administration of SQL Server and AzureSQL DBA.
 
