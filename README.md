@@ -9,6 +9,7 @@
 - 💬 You can ask me about: 
      - AzureSQL and SQL Server High Availability and Disaster Recovery
      - Performance Tuning on AzureSQL and SQL Server
+     - help with Database problems
 
 - 📫 How to reach me: 
   - [🏢 - LinkedIn](https://www.linkedin.com/in/mallikarjun024/)
