@@ -1,4 +1,4 @@
-## Hi, I'm mallikArjun👋
+## Hi, I'm Arjun👋
 
 <p align='right'><img src="https://visitor-badge.glitch.me/badge?page_id=jaapbrasser.visitor-badge"></p>
 
