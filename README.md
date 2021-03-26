@@ -4,7 +4,7 @@
 
 ### I'm a DBA! ✨
 
-- 🔭 I’m currently working on database administration of SQL Server and AzureSQL DBA.
+- 🔭 I’m currently working as database administration of SQL Server and AzureSQL DBA.
 
 - 💬 You can ask me about: 
      - AzureSQL and SQL Server High Availability and Disaster Recovery
